@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# C++
+build/
+bin/
+obj/
+out/
+*.o
+*.so
+*.a
+*.exe
+*.dll
+
+# General
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+# Gemini CLI
+.gemini/tmp/
